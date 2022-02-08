@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Ruskon13
 - 👀 I’m interested in programming  
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on projects and products 
 - 📫 How to reach me :<br>
 telegram @stockholmer
 
